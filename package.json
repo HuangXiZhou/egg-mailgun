@@ -1,6 +1,6 @@
 {
   "name": "egg-mailgun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mailgun plugin for eggjs",
   "eggPlugin": {
     "name": "mailgun"
