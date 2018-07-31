@@ -91,7 +91,7 @@ module.exports = EmailController;
 
 ## 提问交流
 
-请到 [egg issues](https://github.com/HuangXiZhou/egg-mailgun/issues) 异步交流。
+请到 [issues](https://github.com/HuangXiZhou/egg-mailgun/issues) 异步交流。
 
 ## License
 
