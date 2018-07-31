@@ -88,7 +88,7 @@ module.exports = EmailController;
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/HuangXiZhou/egg/issues).
+Please open an issue [here](https://github.com/HuangXiZhou/egg-mailgun/issues).
 
 ## License
 

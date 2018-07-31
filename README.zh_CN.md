@@ -43,7 +43,7 @@ exports.mailgun = {
 };
 ```
 
-## 详细配置
+## 详细配置
 
 ```js
 // {app_root}/config/config.default.js
@@ -91,7 +91,7 @@ module.exports = EmailController;
 
 ## 提问交流
 
-请到 [egg issues](https://github.com/HuangXiZhou/egg/issues) 异步交流。
+请到 [egg issues](https://github.com/HuangXiZhou/egg-mailgun/issues) 异步交流。
 
 ## License
 
